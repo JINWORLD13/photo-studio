@@ -135,7 +135,7 @@ export default function Home() {
         setIsHoveringControls(false);
         setIsHoveringButtons(false);
         setIsHoveringImage(false);
-      }, 2000); // 2초 후 자동으로 사라짐
+      }, 5000); // 5초 후 자동으로 사라짐
       return () => clearTimeout(timer);
     }
   }, [selectedImage, currentIndex]);
@@ -573,7 +573,9 @@ export default function Home() {
                 zIndex: 1,
                 pointerEvents: "none",
                 opacity: isHoveringControls ? 1 : 0,
-                transform: isHoveringControls ? "translateY(0)" : "translateY(10px)",
+                transform: isHoveringControls
+                  ? "translateY(0)"
+                  : "translateY(10px)",
               }}
             >
               <div

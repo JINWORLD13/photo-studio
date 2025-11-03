@@ -181,7 +181,7 @@ export default function PortfolioPage() {
         setIsHoveringControls(false);
         setIsHoveringButtons(false);
         setIsHoveringImage(false);
-      }, 2000); // 2초 후 자동으로 사라짐
+      }, 5000); // 5초 후 자동으로 사라짐
       return () => clearTimeout(timer);
     }
   }, [selectedImage, currentIndex]);
