@@ -1,0 +1,47 @@
+# robots.txt for Moment Snap Photography Studio
+
+# Allow all search engines to crawl everything
+User-agent: *
+Allow: /
+
+# Disallow admin and private pages
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /login/
+Disallow: /mypage/
+Disallow: /api/
+Disallow: /debug/
+Disallow: /test-image/
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://momentsnap.com/sitemap.xml
+
+# Specific rules for major search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+
+User-agent: Yeti
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+

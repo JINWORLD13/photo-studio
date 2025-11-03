@@ -1,0 +1,513 @@
+{
+  "nav": {
+    "home": "홈",
+    "portfolio": "포트폴리오",
+    "services": "서비스",
+    "contact": "문의하기",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "mypage": "마이페이지",
+    "admin": "관리자 페이지",
+    "adminDashboard": "관리자 대시보드",
+    "loginSignup": "로그인 / 회원가입"
+  },
+  "home": {
+    "hero": {
+      "title": "당신의 순간을 영원히",
+      "subtitle": "일상의 특별함을 담는 감성 스냅 포토그래퍼\n자연스럽고 따뜻한 순간을 기록합니다",
+      "ctaPrimary": "무료 상담 신청",
+      "ctaSecondary": "포트폴리오 보기"
+    },
+    "features": {
+      "title": "왜 Moment Snap인가요?",
+      "subtitle": "10년 경력의 전문 포토그래퍼가\n당신만의 특별한 순간을 포착합니다",
+      "equipment": {
+        "title": "전문 장비",
+        "description": "최신 전문 카메라와 렌즈로 완벽한 순간을 포착합니다"
+      },
+      "emotion": {
+        "title": "감성적 연출",
+        "description": "자연스럽고 따뜻한 감성을 담은 스냅사진"
+      },
+      "delivery": {
+        "title": "빠른 전달",
+        "description": "촬영 후 3-5일 내 보정된 사진을 전달해드립니다"
+      }
+    },
+    "recentWork": {
+      "title": "최근 작업",
+      "subtitle": "고객님들의 소중한 순간들",
+      "viewAll": "전체 포트폴리오 보기"
+    },
+    "cta": {
+      "title": "지금 바로\n상담 받아보세요",
+      "subtitle": "무료 상담으로 원하시는 촬영 스타일과\n일정을 상의해드립니다\n평균 응답 시간 10분 이내",
+      "button": "문의하기"
+    }
+  },
+  "contact": {
+    "title": "문의하기",
+    "subtitle": "궁금하신 점이나 촬영 문의를 남겨주세요\n빠른 시간 내에 답변드리겠습니다",
+    "contactCards": {
+      "phone": "전화 문의",
+      "email": "이메일",
+      "studio": "스튜디오",
+      "emailAvailable": "24시간 접수 가능",
+      "visitInfo": "방문 상담 가능 (예약 필수)"
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "q1": "촬영 시간은 얼마나 걸리나요?",
+      "q2": "사진은 언제 받을 수 있나요?",
+      "q3": "우천 시 일정 변경이 가능한가요?",
+      "q4": "추가 보정 요청이 가능한가요?"
+    },
+    "form": {
+      "title": "무료 상담 신청",
+      "name": "이름",
+      "namePlaceholder": "홍길동",
+      "email": "이메일",
+      "emailPlaceholder": "example@email.com",
+      "phone": "연락처",
+      "phonePlaceholder": "010-1234-5678",
+      "service": "관심 서비스",
+      "message": "문의 내용",
+      "messagePlaceholder": "촬영 희망 일정, 장소, 예산 등을 자유롭게 작성해주세요",
+      "submit": "문의하기",
+      "submitting": "전송 중...",
+      "success": "문의가 성공적으로 접수되었습니다! 빠른 시간 내에 연락드리겠습니다.",
+      "privacy": "개인정보는 문의 응대 목적으로만 사용되며, 안전하게 보관됩니다."
+    },
+    "services": {
+      "wedding": "웨딩스냅",
+      "couple": "커플촬영",
+      "profile": "프로필",
+      "family": "가족사진",
+      "product": "제품촬영",
+      "other": "기타"
+    }
+  },
+  "footer": {
+    "description": "당신의 소중한 순간을 영원히 남기는 감성 스냅 포토그래퍼.\n일상의 특별함을 담아드립니다.",
+    "quickLinks": "빠른 링크",
+    "contactInfo": "연락처",
+    "phone": "010-1234-5678",
+    "email": "contact@momentsnap.com",
+    "rights": "All rights reserved.",
+    "privacy": "개인정보처리방침",
+    "terms": "이용약관"
+  },
+  "portfolio": {
+    "title": "포트폴리오",
+    "subtitle": "고객님들과 함께한 소중한 순간들을 만나보세요",
+    "categories": {
+      "all": "전체",
+      "wedding": "웨딩스냅",
+      "couple": "커플촬영",
+      "profile": "프로필",
+      "family": "가족사진",
+      "product": "제품촬영"
+    },
+    "noItems": "이 카테고리의 작품이 없습니다",
+    "noItemsDescription": "해당 카테고리에 등록된 포트폴리오가 아직 없습니다.",
+    "cta": {
+      "title": "당신만의 특별한 순간을 담아드립니다",
+      "description": "지금 바로 상담 신청하고 원하시는 촬영 스타일을 상의하세요",
+      "button": "무료 상담 신청"
+    }
+  },
+  "services": {
+    "title": "서비스 & 가격",
+    "subtitle": "다양한 촬영 패키지와 서비스를 만나보세요",
+    "popular": "인기",
+    "consultation": "상담 신청",
+    "currency": "원",
+    "packages": {
+      "basic": {
+        "name": "베이직",
+        "duration": "2시간",
+        "features": [
+          "촬영 시간 2시간",
+          "보정 사진 30장",
+          "전문 장비 사용",
+          "3-5일 내 전달",
+          "온라인 갤러리 제공"
+        ]
+      },
+      "premium": {
+        "name": "프리미엄",
+        "duration": "4시간",
+        "features": [
+          "촬영 시간 4시간",
+          "보정 사진 80장",
+          "전문 장비 + 조명",
+          "2-3일 내 전달",
+          "온라인 갤러리 제공",
+          "메이크업 협업 가능",
+          "원본 파일 제공"
+        ]
+      },
+      "wedding": {
+        "name": "웨딩 스페셜",
+        "duration": "종일",
+        "features": [
+          "촬영 시간 8시간+",
+          "보정 사진 200장+",
+          "프리미엄 장비 풀셋",
+          "당일 스냅앨범 제공",
+          "하이라이트 영상 제작",
+          "웨딩북 제작 (옵션)",
+          "2인 포토그래퍼",
+          "원본 파일 전체 제공"
+        ]
+      }
+    },
+    "servicesTitle": "촬영 서비스",
+    "servicesList": {
+      "wedding": {
+        "title": "웨딩 & 커플 스냅",
+        "description": "인생의 가장 소중한 순간을 자연스럽고 감성적으로 담아드립니다.",
+        "details": ["약혼/본식 스냅", "커플 데이트 스냅", "프로포즈 스냅"]
+      },
+      "family": {
+        "title": "가족 사진",
+        "description": "온 가족이 함께하는 따뜻하고 행복한 순간을 기록합니다.",
+        "details": ["가족 단체 사진", "돌잔치/백일", "프로필 가족사진"]
+      },
+      "business": {
+        "title": "비즈니스 프로필",
+        "description": "전문적이고 신뢰감 있는 프로필 사진으로 첫인상을 만들어드립니다.",
+        "details": ["개인 프로필", "기업 임직원 사진", "배우자 프로필"]
+      },
+      "product": {
+        "title": "제품 & 상업 촬영",
+        "description": "제품의 매력을 최대한 끌어내는 전문 상업 촬영을 제공합니다.",
+        "details": ["제품 상세 촬영", "음식 사진", "공간 촬영"]
+      }
+    },
+    "processTitle": "촬영 진행 과정",
+    "process": [
+      {
+        "title": "상담 신청",
+        "description": "문의 폼 작성 또는 전화 상담"
+      },
+      {
+        "title": "일정 조율",
+        "description": "촬영 날짜와 장소 확정"
+      },
+      {
+        "title": "촬영 진행",
+        "description": "편안한 분위기에서 촬영"
+      },
+      {
+        "title": "사진 전달",
+        "description": "보정 완료 후 온라인 전달"
+      }
+    ],
+    "cta": {
+      "title": "무료 상담을 원하시나요?",
+      "subtitle": "원하시는 촬영 스타일과 예산에 맞는 맞춤 견적을 제공해드립니다",
+      "button": "지금 문의하기"
+    }
+  },
+  "login": {
+    "title": "관리자 로그인",
+    "subtitle": "Moment Snap 관리자 페이지",
+    "email": "이메일",
+    "emailPlaceholder": "admin@example.com",
+    "password": "비밀번호",
+    "passwordPlaceholder": "••••••••",
+    "submit": "로그인",
+    "submitting": "로그인 중...",
+    "needAccount": "관리자 계정이 필요하신가요?",
+    "createAccount": "Supabase 대시보드에서 계정을 생성해주세요.",
+    "backHome": "← 홈으로 돌아가기",
+    "error": "로그인에 실패했습니다. 다시 시도해주세요."
+  },
+  "admin": {
+    "title": "관리자 대시보드",
+    "subtitle": "문의 내역을 확인하고 관리하세요",
+    "logout": "로그아웃",
+    "totalContacts": "총 문의",
+    "todayContacts": "오늘 문의",
+    "loginAccount": "로그인 계정",
+    "portfolioManagement": "포트폴리오 관리",
+    "contactsTitle": "문의 내역",
+    "noContacts": "문의 내역이 없습니다",
+    "noContactsDesc": "고객의 문의가 들어오면 여기에 표시됩니다.",
+    "messageLabel": "문의 내용:",
+    "deleteConfirm": "정말로 이 문의를 삭제하시겠습니까?",
+    "deleteError": "삭제에 실패했습니다.",
+    "loading": "로딩 중...",
+    "delete": "삭제",
+    "noPermission": "관리자 권한이 필요합니다.",
+    "filters": "필터",
+    "search": "검색",
+    "searchPlaceholder": "이름, 이메일, 전화번호, 문의 내용으로 검색...",
+    "sortBy": "정렬 기준",
+    "sortByDate": "날짜",
+    "sortByName": "이름",
+    "sortOrder": "정렬 순서",
+    "sortAsc": "오름차순",
+    "sortDesc": "내림차순",
+    "resetFilters": "필터 초기화",
+    "noSearchResults": "검색 결과가 없습니다",
+    "noSearchResultsDesc": "검색 조건과 일치하는 문의가 없습니다. 다른 검색어를 시도해보세요.",
+    "sessionExpiring": "세션이 곧 만료됩니다",
+    "sessionExpiringDesc": "약 {minutes}분 후 자동으로 로그아웃됩니다. 계속 작업하려면 페이지에서 활동하세요."
+  },
+  "auth": {
+    "loginTitle": "로그인",
+    "loginSubtitle": "계정에 로그인하세요",
+    "signupTitle": "회원가입",
+    "signupSubtitle": "새 계정을 만드세요",
+    "name": "이름",
+    "namePlaceholder": "홍길동",
+    "email": "이메일",
+    "emailPlaceholder": "example@email.com",
+    "password": "비밀번호",
+    "passwordPlaceholder": "••••••••",
+    "confirmPassword": "비밀번호 확인",
+    "confirmPasswordPlaceholder": "••••••••",
+    "loginButton": "로그인",
+    "signupButton": "회원가입",
+    "submitting": "처리 중...",
+    "needSignup": "계정이 없으신가요? 회원가입하기",
+    "needLogin": "이미 계정이 있으신가요? 로그인하기",
+    "backHome": "← 홈으로 돌아가기",
+    "error": "오류가 발생했습니다. 다시 시도해주세요.",
+    "passwordMismatch": "비밀번호가 일치하지 않습니다.",
+    "signupSuccess": "회원가입이 완료되었습니다! 이메일을 확인해주세요.",
+    "agreementText": "회원가입 시",
+    "and": "및"
+  },
+  "privacy": {
+    "title": "개인정보처리방침",
+    "lastUpdated": "최종 업데이트: 2025년 11월 3일",
+    "backHome": "홈으로 돌아가기",
+    "section1": {
+      "title": "1. 수집하는 개인정보 항목",
+      "content": "Moment Snap은 서비스 제공을 위해 다음과 같은 개인정보를 수집합니다."
+    },
+    "section2": {
+      "title": "2. 개인정보의 수집 및 이용 목적",
+      "subtitle1": "필수 항목",
+      "items1": [
+        "이름, 이메일, 전화번호 (문의 응대 및 서비스 제공)",
+        "계정 정보 (회원 관리)"
+      ],
+      "subtitle2": "선택 항목",
+      "items2": [
+        "촬영 관련 선호도 및 요청사항",
+        "마케팅 수신 동의 여부"
+      ]
+    },
+    "section3": {
+      "title": "3. 개인정보의 보유 및 이용 기간",
+      "content": "수집된 개인정보는 다음 기간 동안 보유 및 이용됩니다:",
+      "items": [
+        "회원 탈퇴 시까지",
+        "서비스 제공 완료 후 3년 (전자상거래법에 따른 거래 기록 보관)",
+        "법령에 따라 보존할 필요가 있는 경우 해당 법령에서 정한 기간"
+      ]
+    },
+    "section4": {
+      "title": "4. 개인정보의 제3자 제공",
+      "content": "Moment Snap은 원칙적으로 고객의 개인정보를 외부에 제공하지 않습니다. 다만, 법령에 의해 요구되는 경우 또는 고객의 동의가 있는 경우에만 제공됩니다."
+    },
+    "section5": {
+      "title": "5. 이용자의 권리",
+      "content": "이용자는 언제든지 다음과 같은 권리를 행사할 수 있습니다:",
+      "items": [
+        "개인정보 열람 요구",
+        "개인정보 정정 또는 삭제 요구",
+        "개인정보 처리 정지 요구",
+        "회원 탈퇴 (계정 삭제)"
+      ]
+    },
+    "section6": {
+      "title": "6. 개인정보 보호책임자",
+      "content": "개인정보 관련 문의 및 권리 행사는 아래 연락처로 해주시기 바랍니다."
+    },
+    "contact": {
+      "title": "문의처",
+      "business": "사업자명",
+      "email": "이메일",
+      "phone": "전화번호"
+    }
+  },
+  "terms": {
+    "title": "이용약관",
+    "lastUpdated": "최종 업데이트: 2025년 11월 3일",
+    "backHome": "홈으로 돌아가기",
+    "section1": {
+      "title": "1. 목적",
+      "content": "본 약관은 Moment Snap(이하 '회사')이 제공하는 사진 촬영 서비스의 이용과 관련하여 회사와 이용자 간의 권리, 의무 및 책임사항을 규정함을 목적으로 합니다."
+    },
+    "section2": {
+      "title": "2. 용어의 정의",
+      "content": "본 약관에서 사용하는 용어의 정의는 다음과 같습니다:",
+      "items": [
+        "서비스: 회사가 제공하는 사진 촬영, 보정, 전달 등의 모든 서비스",
+        "이용자: 본 약관에 동의하고 회사의 서비스를 이용하는 고객",
+        "회원: 회사에 개인정보를 제공하여 회원 가입을 한 이용자",
+        "콘텐츠: 서비스 내 제공되는 모든 사진, 영상, 텍스트 등의 자료"
+      ]
+    },
+    "section3": {
+      "title": "3. 서비스 이용",
+      "content": "회사는 다음과 같은 서비스를 제공합니다:",
+      "items": [
+        "웨딩, 커플, 가족, 프로필 등 다양한 촬영 서비스",
+        "사진 보정 및 후반 작업",
+        "온라인 갤러리를 통한 사진 전달",
+        "기타 사진 관련 부가 서비스"
+      ]
+    },
+    "section4": {
+      "title": "4. 계약의 성립",
+      "content": "촬영 계약은 다음의 절차를 통해 성립됩니다:",
+      "items": [
+        "이용자의 상담 신청 및 촬영 문의",
+        "회사의 견적 제공 및 일정 조율",
+        "이용자의 계약 동의 및 계약금 지불",
+        "회사의 계약 확정 통보"
+      ]
+    },
+    "section5": {
+      "title": "5. 환불 및 취소",
+      "content": "촬영 취소 및 환불은 취소 시점에 따라 다르게 적용됩니다. 촬영 14일 전 취소 시 전액 환불, 7일 전 취소 시 50% 환불, 3일 이내 취소 시 환불 불가합니다. 단, 천재지변 등 불가항력적인 사유의 경우 협의 후 일정 변경 또는 환불이 가능합니다."
+    },
+    "section6": {
+      "title": "6. 저작권 및 초상권",
+      "content": "촬영된 사진의 권리는 다음과 같이 구분됩니다:",
+      "items": [
+        "저작권: 촬영된 사진의 저작권은 회사에 귀속됩니다",
+        "이용권: 이용자는 개인적 용도로 사진을 자유롭게 이용할 수 있습니다",
+        "초상권: 회사는 이용자의 사진을 포트폴리오 등에 사용하기 전 사전 동의를 구합니다",
+        "상업적 이용: 사진의 상업적 이용은 회사와 별도 협의가 필요합니다"
+      ]
+    },
+    "section7": {
+      "title": "7. 면책조항",
+      "content": "회사는 천재지변, 불가항력적 사유로 인한 서비스 제공 불가 시 책임을 지지 않습니다. 또한, 이용자가 제공한 정보의 부정확함으로 인한 문제에 대해서는 책임을 지지 않습니다."
+    },
+    "contact": {
+      "title": "문의처",
+      "business": "사업자명",
+      "email": "이메일",
+      "phone": "전화번호"
+    }
+  },
+  "mypage": {
+    "title": "마이페이지",
+    "subtitle": "나의 정보와 문의 내역을 확인하세요",
+    "logout": "로그아웃",
+    "loading": "로딩 중...",
+    "name": "이름",
+    "noName": "이름 없음",
+    "email": "이메일",
+    "totalInquiries": "총 문의 수",
+    "newInquiry": "새 문의하기",
+    "newInquiryDesc": "새로운 상담 신청",
+    "portfolio": "포트폴리오",
+    "portfolioDesc": "작품 갤러리 보기",
+    "services": "서비스",
+    "servicesDesc": "서비스 안내",
+    "inquiryHistory": "문의 내역",
+    "noInquiries": "문의 내역이 없습니다",
+    "noInquiriesDesc": "아직 작성한 문의가 없습니다. 지금 바로 상담을 신청해보세요!",
+    "makeInquiry": "문의하기",
+    "inquiryContent": "문의 내용:",
+    "pending": "접수됨",
+    "imageOnly": "이미지 파일만 업로드 가능합니다.",
+    "fileSizeLimit": "파일 크기는 2MB 이하여야 합니다.",
+    "profileImageChanged": "프로필 사진이 변경되었습니다!",
+    "uploadFailed": "업로드에 실패했습니다."
+  },
+  "adminPortfolio": {
+    "title": "포트폴리오 관리",
+    "subtitle": "포트폴리오 이미지를 추가하고 관리하세요",
+    "backToDashboard": "대시보드",
+    "addImage": "이미지 추가",
+    "noPortfolio": "포트폴리오가 없습니다",
+    "addFirstImage": "첫 번째 이미지를 추가해보세요!",
+    "addImageModal": "포트폴리오 이미지 추가",
+    "imageLabel": "이미지",
+    "clickToSelect": "클릭하여 이미지 선택",
+    "imageFormat": "JPG, PNG (최대 5MB)",
+    "titleLabel": "제목",
+    "titlePlaceholder": "예: 봄날의 웨딩스냅",
+    "categoryLabel": "카테고리",
+    "descriptionLabel": "설명 (선택)",
+    "descriptionPlaceholder": "이미지에 대한 간단한 설명",
+    "cancel": "취소",
+    "upload": "업로드",
+    "uploading": "업로드 중...",
+    "noPermission": "관리자 권한이 필요합니다.",
+    "imageOnly": "이미지 파일만 업로드 가능합니다.",
+    "fileSizeLimit": "파일 크기는 5MB 이하여야 합니다.",
+    "selectImage": "이미지를 선택해주세요.",
+    "uploadSuccess": "포트폴리오가 추가되었습니다!",
+    "uploadFailed": "업로드 실패",
+    "unknownError": "알 수 없는 오류",
+    "deleteConfirm": "정말로 이 포트폴리오를 삭제하시겠습니까?",
+    "deleteSuccess": "삭제되었습니다.",
+    "deleteError": "삭제에 실패했습니다."
+  },
+  "portfolioItems": {
+    "springWedding": {
+      "title": "봄날의 웨딩",
+      "description": "아름다운 봄날의 야외 웨딩 촬영. 자연스러운 햇살과 함께한 특별한 순간"
+    },
+    "romanticWedding": {
+      "title": "로맨틱 웨딩",
+      "description": "감성 가득한 웨딩 스냅. 두 사람의 사랑이 느껴지는 순간을 포착"
+    },
+    "classicWedding": {
+      "title": "클래식 웨딩",
+      "description": "우아한 실내 웨딩 촬영. 격식 있는 분위기 속의 아름다운 순간"
+    },
+    "coupleDate": {
+      "title": "커플 데이트",
+      "description": "자연스러운 커플 스냅. 함께하는 평범한 일상이 특별한 추억으로"
+    },
+    "romanticCouple": {
+      "title": "로맨틱 커플",
+      "description": "사랑스러운 순간 포착. 두 사람만의 특별한 시간을 담았습니다"
+    },
+    "natureCouple": {
+      "title": "자연 속 커플",
+      "description": "자연 속에서의 커플 촬영. 편안하고 자연스러운 모습"
+    },
+    "businessProfile": {
+      "title": "비즈니스 프로필",
+      "description": "전문적인 프로필 촬영. 신뢰감을 주는 이미지로 완성"
+    },
+    "femaleProfile": {
+      "title": "여성 프로필",
+      "description": "세련된 프로필 사진. 자연스러우면서도 전문적인 느낌"
+    },
+    "familyPhoto": {
+      "title": "가족 사진",
+      "description": "따뜻한 가족 촬영. 함께하는 소중한 시간을 영원히 간직하세요"
+    },
+    "happyFamily": {
+      "title": "행복한 가족",
+      "description": "웃음 가득한 가족 사진. 자연스럽고 편안한 분위기"
+    },
+    "productPhoto": {
+      "title": "제품 촬영",
+      "description": "고품질 제품 사진. 상품의 가치를 극대화하는 촬영"
+    },
+    "fashionProduct": {
+      "title": "패션 제품",
+      "description": "스타일리시한 제품 촬영. 세련된 구도와 조명"
+    }
+  },
+  "modal": {
+    "close": "닫기",
+    "viewDetails": "이동"
+  }
+}
+

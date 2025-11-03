@@ -1,0 +1,513 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "portfolio": "ポートフォリオ",
+    "services": "サービス",
+    "contact": "お問い合わせ",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "mypage": "マイページ",
+    "admin": "管理者ページ",
+    "adminDashboard": "管理者ダッシュボード",
+    "loginSignup": "ログイン / 会員登録"
+  },
+  "home": {
+    "hero": {
+      "title": "あなたの瞬間を永遠に",
+      "subtitle": "日常の特別さを捉える感性的なスナップフォトグラファー\n自然で温かい瞬間を記録します",
+      "ctaPrimary": "無料相談申込",
+      "ctaSecondary": "ポートフォリオを見る"
+    },
+    "features": {
+      "title": "なぜMoment Snapなのか?",
+      "subtitle": "10年のキャリアを持つプロのフォトグラファーが\nあなただけの特別な瞬間を捉えます",
+      "equipment": {
+        "title": "プロ機材",
+        "description": "最新のプロ用カメラとレンズで完璧な瞬間を捉えます"
+      },
+      "emotion": {
+        "title": "感性的な演出",
+        "description": "自然で温かい感性を込めたスナップ写真"
+      },
+      "delivery": {
+        "title": "迅速な納品",
+        "description": "撮影後3-5日以内に補正済み写真をお届けします"
+      }
+    },
+    "recentWork": {
+      "title": "最近の作品",
+      "subtitle": "お客様の大切な瞬間",
+      "viewAll": "全ポートフォリオを見る"
+    },
+    "cta": {
+      "title": "今すぐ無料相談を\n受けてみてください",
+      "subtitle": "無料相談でご希望の撮影スタイルと\nスケジュールをご相談いただけます\n平均応答時間10分以内",
+      "button": "お問い合わせ"
+    }
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "ご質問や撮影のご依頼をお寄せください\n迅速にご返信いたします",
+    "contactCards": {
+      "phone": "電話でのお問い合わせ",
+      "email": "メール",
+      "studio": "スタジオ",
+      "emailAvailable": "24時間受付可能",
+      "visitInfo": "訪問相談可能（要予約）"
+    },
+    "faq": {
+      "title": "よくある質問",
+      "q1": "撮影時間はどのくらいかかりますか？",
+      "q2": "写真はいつ受け取れますか？",
+      "q3": "雨天時のスケジュール変更は可能ですか？",
+      "q4": "追加の補正依頼は可能ですか？"
+    },
+    "form": {
+      "title": "無料相談申込",
+      "name": "お名前",
+      "namePlaceholder": "山田太郎",
+      "email": "メールアドレス",
+      "emailPlaceholder": "example@email.com",
+      "phone": "電話番号",
+      "phonePlaceholder": "090-1234-5678",
+      "service": "ご興味のあるサービス",
+      "message": "お問い合わせ内容",
+      "messagePlaceholder": "撮影希望日、場所、ご予算などをご自由にご記入ください",
+      "submit": "お問い合わせ",
+      "submitting": "送信中...",
+      "success": "お問い合わせを受付いたしました！迅速にご連絡させていただきます。",
+      "privacy": "個人情報はお問い合わせ対応の目的でのみ使用され、安全に保管されます。"
+    },
+    "services": {
+      "wedding": "ウェディングスナップ",
+      "couple": "カップル撮影",
+      "profile": "プロフィール",
+      "family": "家族写真",
+      "product": "商品撮影",
+      "other": "その他"
+    }
+  },
+  "footer": {
+    "description": "あなたの大切な瞬間を永遠に残す感性的なスナップフォトグラファー。\n日常の特別さを捉えます。",
+    "quickLinks": "クイックリンク",
+    "contactInfo": "連絡先",
+    "phone": "090-1234-5678",
+    "email": "contact@momentsnap.com",
+    "rights": "All rights reserved.",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "portfolio": {
+    "title": "ポートフォリオ",
+    "subtitle": "お客様との大切な瞬間をご覧ください",
+    "categories": {
+      "all": "全て",
+      "wedding": "ウェディングスナップ",
+      "couple": "カップル撮影",
+      "profile": "プロフィール",
+      "family": "家族写真",
+      "product": "商品撮影"
+    },
+    "noItems": "このカテゴリーの作品はありません",
+    "noItemsDescription": "該当カテゴリーに登録されたポートフォリオがまだありません。",
+    "cta": {
+      "title": "あなただけの特別な瞬間を撮影します",
+      "description": "今すぐ相談を申し込んで、ご希望の撮影スタイルをご相談ください",
+      "button": "無料相談申込"
+    }
+  },
+  "services": {
+    "title": "サービス・料金",
+    "subtitle": "様々な撮影パッケージとサービスをご覧ください",
+    "popular": "人気",
+    "consultation": "相談申込",
+    "currency": "ウォン",
+    "packages": {
+      "basic": {
+        "name": "ベーシック",
+        "duration": "2時間",
+        "features": [
+          "撮影時間2時間",
+          "補正写真30枚",
+          "プロ機材使用",
+          "3-5日以内納品",
+          "オンラインギャラリー提供"
+        ]
+      },
+      "premium": {
+        "name": "プレミアム",
+        "duration": "4時間",
+        "features": [
+          "撮影時間4時間",
+          "補正写真80枚",
+          "プロ機材＋照明",
+          "2-3日以内納品",
+          "オンラインギャラリー提供",
+          "メイクアップ協業可能",
+          "オリジナルファイル提供"
+        ]
+      },
+      "wedding": {
+        "name": "ウェディングスペシャル",
+        "duration": "終日",
+        "features": [
+          "撮影時間8時間以上",
+          "補正写真200枚以上",
+          "プレミアム機材フルセット",
+          "当日スナップアルバム提供",
+          "ハイライト映像制作",
+          "ウェディングブック制作（オプション）",
+          "フォトグラファー2名",
+          "オリジナルファイル全て提供"
+        ]
+      }
+    },
+    "servicesTitle": "撮影サービス",
+    "servicesList": {
+      "wedding": {
+        "title": "ウェディング＆カップルスナップ",
+        "description": "人生で最も大切な瞬間を自然で感性的に撮影します。",
+        "details": ["婚約/本式スナップ", "カップルデートスナップ", "プロポーズスナップ"]
+      },
+      "family": {
+        "title": "家族写真",
+        "description": "家族全員で過ごす温かく幸せな瞬間を記録します。",
+        "details": ["家族集合写真", "お誕生日/お食い初め", "プロフィール家族写真"]
+      },
+      "business": {
+        "title": "ビジネスプロフィール",
+        "description": "専門的で信頼感のあるプロフィール写真で第一印象を作ります。",
+        "details": ["個人プロフィール", "企業役職員写真", "俳優プロフィール"]
+      },
+      "product": {
+        "title": "商品＆商業撮影",
+        "description": "商品の魅力を最大限に引き出す専門商業撮影を提供します。",
+        "details": ["商品詳細撮影", "料理写真", "空間撮影"]
+      }
+    },
+    "processTitle": "撮影プロセス",
+    "process": [
+      {
+        "title": "相談申込",
+        "description": "お問い合わせフォーム記入または電話相談"
+      },
+      {
+        "title": "日程調整",
+        "description": "撮影日時と場所を確定"
+      },
+      {
+        "title": "撮影進行",
+        "description": "快適な雰囲気での撮影"
+      },
+      {
+        "title": "写真納品",
+        "description": "補正完了後オンライン納品"
+      }
+    ],
+    "cta": {
+      "title": "無料相談をご希望ですか？",
+      "subtitle": "ご希望の撮影スタイルと予算に合わせたカスタム見積もりを提供します",
+      "button": "今すぐお問い合わせ"
+    }
+  },
+  "login": {
+    "title": "管理者ログイン",
+    "subtitle": "Moment Snap 管理者ページ",
+    "email": "メールアドレス",
+    "emailPlaceholder": "admin@example.com",
+    "password": "パスワード",
+    "passwordPlaceholder": "••••••••",
+    "submit": "ログイン",
+    "submitting": "ログイン中...",
+    "needAccount": "管理者アカウントが必要ですか？",
+    "createAccount": "Supabaseダッシュボードでアカウントを作成してください。",
+    "backHome": "← ホームに戻る",
+    "error": "ログインに失敗しました。もう一度お試しください。"
+  },
+  "admin": {
+    "title": "管理者ダッシュボード",
+    "subtitle": "お問い合わせ履歴を確認・管理",
+    "logout": "ログアウト",
+    "totalContacts": "総お問い合わせ",
+    "todayContacts": "今日のお問い合わせ",
+    "loginAccount": "ログインアカウント",
+    "portfolioManagement": "ポートフォリオ管理",
+    "contactsTitle": "お問い合わせ履歴",
+    "noContacts": "お問い合わせ履歴がありません",
+    "noContactsDesc": "お客様のお問い合わせがここに表示されます。",
+    "messageLabel": "お問い合わせ内容:",
+    "deleteConfirm": "本当にこのお問い合わせを削除しますか？",
+    "deleteError": "削除に失敗しました。",
+    "loading": "読み込み中...",
+    "delete": "削除",
+    "noPermission": "管理者権限が必要です。",
+    "filters": "フィルター",
+    "search": "検索",
+    "searchPlaceholder": "名前、メール、電話番号、お問い合わせ内容で検索...",
+    "sortBy": "並び替え",
+    "sortByDate": "日付",
+    "sortByName": "名前",
+    "sortOrder": "並び順",
+    "sortAsc": "昇順",
+    "sortDesc": "降順",
+    "resetFilters": "フィルターリセット",
+    "noSearchResults": "検索結果がありません",
+    "noSearchResultsDesc": "検索条件に一致するお問い合わせがありません。別のキーワードをお試しください。",
+    "sessionExpiring": "セッションがまもなく終了します",
+    "sessionExpiringDesc": "約{minutes}分後に自動的にログアウトされます。作業を続けるにはページ上でアクティブにしてください。"
+  },
+  "auth": {
+    "loginTitle": "ログイン",
+    "loginSubtitle": "アカウントにログイン",
+    "signupTitle": "会員登録",
+    "signupSubtitle": "新しいアカウントを作成",
+    "name": "お名前",
+    "namePlaceholder": "山田太郎",
+    "email": "メールアドレス",
+    "emailPlaceholder": "example@email.com",
+    "password": "パスワード",
+    "passwordPlaceholder": "••••••••",
+    "confirmPassword": "パスワード確認",
+    "confirmPasswordPlaceholder": "••••••••",
+    "loginButton": "ログイン",
+    "signupButton": "会員登録",
+    "submitting": "処理中...",
+    "needSignup": "アカウントをお持ちでないですか？ 会員登録",
+    "needLogin": "既にアカウントをお持ちですか？ ログイン",
+    "backHome": "← ホームに戻る",
+    "error": "エラーが発生しました。もう一度お試しください。",
+    "passwordMismatch": "パスワードが一致しません。",
+    "signupSuccess": "会員登録が完了しました！メールをご確認ください。",
+    "agreementText": "会員登録時",
+    "and": "および"
+  },
+  "privacy": {
+    "title": "プライバシーポリシー",
+    "lastUpdated": "最終更新日: 2025年11月3日",
+    "backHome": "ホームに戻る",
+    "section1": {
+      "title": "1. 収集する個人情報の項目",
+      "content": "Moment Snapは、サービス提供のために以下の個人情報を収集します。"
+    },
+    "section2": {
+      "title": "2. 個人情報の収集および利用目的",
+      "subtitle1": "必須項目",
+      "items1": [
+        "氏名、メールアドレス、電話番号（お問い合わせ対応およびサービス提供）",
+        "アカウント情報（会員管理）"
+      ],
+      "subtitle2": "選択項目",
+      "items2": [
+        "撮影関連の希望および要望事項",
+        "マーケティング受信同意の有無"
+      ]
+    },
+    "section3": {
+      "title": "3. 個人情報の保有および利用期間",
+      "content": "収集された個人情報は、以下の期間保有および利用されます：",
+      "items": [
+        "会員退会時まで",
+        "サービス提供完了後3年（電子商取引法による取引記録保管）",
+        "法令により保存が必要な場合、該当法令で定められた期間"
+      ]
+    },
+    "section4": {
+      "title": "4. 個人情報の第三者提供",
+      "content": "Moment Snapは原則として、お客様の個人情報を外部に提供しません。ただし、法令により要求される場合またはお客様の同意がある場合にのみ提供されます。"
+    },
+    "section5": {
+      "title": "5. 利用者の権利",
+      "content": "利用者はいつでも以下の権利を行使できます：",
+      "items": [
+        "個人情報閲覧要求",
+        "個人情報訂正または削除要求",
+        "個人情報処理停止要求",
+        "会員退会（アカウント削除）"
+      ]
+    },
+    "section6": {
+      "title": "6. 個人情報保護責任者",
+      "content": "個人情報に関するお問い合わせおよび権利行使は、以下の連絡先までお願いします。"
+    },
+    "contact": {
+      "title": "お問い合わせ先",
+      "business": "事業者名",
+      "email": "メールアドレス",
+      "phone": "電話番号"
+    }
+  },
+  "terms": {
+    "title": "利用規約",
+    "lastUpdated": "最終更新日: 2025年11月3日",
+    "backHome": "ホームに戻る",
+    "section1": {
+      "title": "1. 目的",
+      "content": "本規約は、Moment Snap（以下「当社」）が提供する写真撮影サービスの利用に関して、当社と利用者との間の権利、義務および責任事項を規定することを目的とします。"
+    },
+    "section2": {
+      "title": "2. 用語の定義",
+      "content": "本規約で使用する用語の定義は以下の通りです：",
+      "items": [
+        "サービス：当社が提供する写真撮影、補正、納品等のすべてのサービス",
+        "利用者：本規約に同意し、当社のサービスを利用する顧客",
+        "会員：当社に個人情報を提供し、会員登録を行った利用者",
+        "コンテンツ：サービス内で提供されるすべての写真、映像、テキスト等の資料"
+      ]
+    },
+    "section3": {
+      "title": "3. サービス利用",
+      "content": "当社は以下のサービスを提供します：",
+      "items": [
+        "ウェディング、カップル、家族、プロフィール等の様々な撮影サービス",
+        "写真補正および後処理作業",
+        "オンラインギャラリーを通じた写真納品",
+        "その他写真関連の付加サービス"
+      ]
+    },
+    "section4": {
+      "title": "4. 契約の成立",
+      "content": "撮影契約は以下の手順を通じて成立します：",
+      "items": [
+        "利用者の相談申込および撮影お問い合わせ",
+        "当社の見積もり提供および日程調整",
+        "利用者の契約同意および手付金支払い",
+        "当社の契約確定通知"
+      ]
+    },
+    "section5": {
+      "title": "5. 返金およびキャンセル",
+      "content": "撮影のキャンセルおよび返金は、キャンセル時期により異なります。撮影14日前のキャンセルは全額返金、7日前のキャンセルは50%返金、3日以内のキャンセルは返金不可となります。ただし、天災等の不可抗力による場合は、協議の上、日程変更または返金が可能です。"
+    },
+    "section6": {
+      "title": "6. 著作権および肖像権",
+      "content": "撮影された写真の権利は以下のように区分されます：",
+      "items": [
+        "著作権：撮影された写真の著作権は当社に帰属します",
+        "利用権：利用者は個人的な用途で写真を自由に利用できます",
+        "肖像権：当社は利用者の写真をポートフォリオ等で使用する前に事前同意を求めます",
+        "商業的利用：写真の商業的利用は当社との別途協議が必要です"
+      ]
+    },
+    "section7": {
+      "title": "7. 免責事項",
+      "content": "当社は、天災、不可抗力によるサービス提供不可時の責任を負いません。また、利用者が提供した情報の不正確さによる問題についても責任を負いません。"
+    },
+    "contact": {
+      "title": "お問い合わせ先",
+      "business": "事業者名",
+      "email": "メールアドレス",
+      "phone": "電話番号"
+    }
+  },
+  "mypage": {
+    "title": "マイページ",
+    "subtitle": "あなたの情報とお問い合わせ履歴を確認",
+    "logout": "ログアウト",
+    "loading": "読み込み中...",
+    "name": "お名前",
+    "noName": "名前なし",
+    "email": "メールアドレス",
+    "totalInquiries": "総お問い合わせ数",
+    "newInquiry": "新規お問い合わせ",
+    "newInquiryDesc": "新しい相談申込",
+    "portfolio": "ポートフォリオ",
+    "portfolioDesc": "ギャラリーを見る",
+    "services": "サービス",
+    "servicesDesc": "サービス案内",
+    "inquiryHistory": "お問い合わせ履歴",
+    "noInquiries": "お問い合わせ履歴がありません",
+    "noInquiriesDesc": "まだお問い合わせがありません。今すぐ相談を申し込んでみましょう！",
+    "makeInquiry": "お問い合わせ",
+    "inquiryContent": "お問い合わせ内容:",
+    "pending": "受付済み",
+    "imageOnly": "画像ファイルのみアップロード可能です。",
+    "fileSizeLimit": "ファイルサイズは2MB以下である必要があります。",
+    "profileImageChanged": "プロフィール画像が変更されました！",
+    "uploadFailed": "アップロードに失敗しました。"
+  },
+  "adminPortfolio": {
+    "title": "ポートフォリオ管理",
+    "subtitle": "ポートフォリオ画像を追加・管理",
+    "backToDashboard": "ダッシュボード",
+    "addImage": "画像追加",
+    "noPortfolio": "ポートフォリオがありません",
+    "addFirstImage": "最初の画像を追加してみましょう！",
+    "addImageModal": "ポートフォリオ画像追加",
+    "imageLabel": "画像",
+    "clickToSelect": "クリックして画像を選択",
+    "imageFormat": "JPG, PNG（最大5MB）",
+    "titleLabel": "タイトル",
+    "titlePlaceholder": "例：春のウェディングスナップ",
+    "categoryLabel": "カテゴリー",
+    "descriptionLabel": "説明（任意）",
+    "descriptionPlaceholder": "画像についての簡単な説明",
+    "cancel": "キャンセル",
+    "upload": "アップロード",
+    "uploading": "アップロード中...",
+    "noPermission": "管理者権限が必要です。",
+    "imageOnly": "画像ファイルのみアップロード可能です。",
+    "fileSizeLimit": "ファイルサイズは5MB以下である必要があります。",
+    "selectImage": "画像を選択してください。",
+    "uploadSuccess": "ポートフォリオが追加されました！",
+    "uploadFailed": "アップロード失敗",
+    "unknownError": "不明なエラー",
+    "deleteConfirm": "本当にこのポートフォリオを削除しますか？",
+    "deleteSuccess": "削除されました。",
+    "deleteError": "削除に失敗しました。"
+  },
+  "portfolioItems": {
+    "springWedding": {
+      "title": "春のウェディング",
+      "description": "美しい春の日の屋外ウェディング撮影。自然な日差しと共にした特別な瞬間"
+    },
+    "romanticWedding": {
+      "title": "ロマンティックウェディング",
+      "description": "感性あふれるウェディングスナップ。二人の愛が感じられる瞬間を捉えました"
+    },
+    "classicWedding": {
+      "title": "クラシックウェディング",
+      "description": "優雅な室内ウェディング撮影。格式ある雰囲気の中の美しい瞬間"
+    },
+    "coupleDate": {
+      "title": "カップルデート",
+      "description": "自然なカップルスナップ。一緒に過ごす平凡な日常が特別な思い出に"
+    },
+    "romanticCouple": {
+      "title": "ロマンティックカップル",
+      "description": "愛らしい瞬間を捉えました。二人だけの特別な時間を収めました"
+    },
+    "natureCouple": {
+      "title": "自然の中のカップル",
+      "description": "自然の中でのカップル撮影。リラックスした自然な姿"
+    },
+    "businessProfile": {
+      "title": "ビジネスプロフィール",
+      "description": "専門的なプロフィール撮影。信頼感を与えるイメージで完成"
+    },
+    "femaleProfile": {
+      "title": "女性プロフィール",
+      "description": "洗練されたプロフィール写真。自然ながらも専門的な雰囲気"
+    },
+    "familyPhoto": {
+      "title": "家族写真",
+      "description": "温かい家族撮影。一緒に過ごす大切な時間を永遠に残しましょう"
+    },
+    "happyFamily": {
+      "title": "幸せな家族",
+      "description": "笑顔いっぱいの家族写真。自然でリラックスした雰囲気"
+    },
+    "productPhoto": {
+      "title": "商品撮影",
+      "description": "高品質な商品写真。商品の価値を最大限に引き出す撮影"
+    },
+    "fashionProduct": {
+      "title": "ファッション商品",
+      "description": "スタイリッシュな商品撮影。洗練された構図と照明"
+    }
+  },
+  "modal": {
+    "close": "閉じる",
+    "viewDetails": "詳細を見る"
+  }
+}
+

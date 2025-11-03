@@ -1,0 +1,513 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "logout": "Logout",
+    "mypage": "My Page",
+    "admin": "Admin Page",
+    "adminDashboard": "Admin Dashboard",
+    "loginSignup": "Login / Sign Up"
+  },
+  "home": {
+    "hero": {
+      "title": "Capture Your Moments Forever",
+      "subtitle": "Professional snap photography capturing life's special moments\nNatural and warm moments preserved",
+      "ctaPrimary": "Free Consultation",
+      "ctaSecondary": "View Portfolio"
+    },
+    "features": {
+      "title": "Why Moment Snap?",
+      "subtitle": "Professional photographer with 10 years of experience\ncapturing your unique moments",
+      "equipment": {
+        "title": "Professional Equipment",
+        "description": "Capturing perfect moments with the latest professional cameras and lenses"
+      },
+      "emotion": {
+        "title": "Emotional Direction",
+        "description": "Snap photos filled with natural and warm emotions"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "description": "Edited photos delivered within 3-5 days after shooting"
+      }
+    },
+    "recentWork": {
+      "title": "Recent Work",
+      "subtitle": "Precious moments of our clients",
+      "viewAll": "View Full Portfolio"
+    },
+    "cta": {
+      "title": "Get Your Free\nConsultation Now",
+      "subtitle": "Discuss your preferred shooting style\nand schedule through free consultation\nAverage response time within 10 minutes",
+      "button": "Contact Us"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Leave your questions or shooting inquiries\nWe will respond promptly",
+    "contactCards": {
+      "phone": "Phone Inquiry",
+      "email": "Email",
+      "studio": "Studio",
+      "emailAvailable": "24/7 Available",
+      "visitInfo": "Visit available (Reservation required)"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How long does the shooting take?",
+      "q2": "When will I receive the photos?",
+      "q3": "Can I reschedule in case of rain?",
+      "q4": "Can I request additional editing?"
+    },
+    "form": {
+      "title": "Free Consultation Request",
+      "name": "Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email",
+      "emailPlaceholder": "example@email.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+1-234-567-8900",
+      "service": "Service of Interest",
+      "message": "Message",
+      "messagePlaceholder": "Feel free to write about your preferred shooting date, location, budget, etc.",
+      "submit": "Send Inquiry",
+      "submitting": "Sending...",
+      "success": "Your inquiry has been successfully submitted! We will contact you soon.",
+      "privacy": "Personal information is used only for inquiry response purposes and is securely stored."
+    },
+    "services": {
+      "wedding": "Wedding Snap",
+      "couple": "Couple Photography",
+      "profile": "Profile",
+      "family": "Family Photo",
+      "product": "Product Photography",
+      "other": "Other"
+    }
+  },
+  "footer": {
+    "description": "Professional snap photographer preserving your precious moments forever.\nCapturing the specialness of everyday life.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "phone": "+82-10-1234-5678",
+    "email": "contact@momentsnap.com",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Discover precious moments with our clients",
+    "categories": {
+      "all": "All",
+      "wedding": "Wedding Snap",
+      "couple": "Couple Photography",
+      "profile": "Profile",
+      "family": "Family Photo",
+      "product": "Product Photography"
+    },
+    "noItems": "No works in this category",
+    "noItemsDescription": "There are no portfolios registered in this category yet.",
+    "cta": {
+      "title": "We capture your special moments",
+      "description": "Apply for consultation now and discuss your preferred shooting style",
+      "button": "Free Consultation"
+    }
+  },
+  "services": {
+    "title": "Services & Pricing",
+    "subtitle": "Explore various shooting packages and services",
+    "popular": "Popular",
+    "consultation": "Request Consultation",
+    "currency": "KRW",
+    "packages": {
+      "basic": {
+        "name": "Basic",
+        "duration": "2 hours",
+        "features": [
+          "2 hours shooting time",
+          "30 edited photos",
+          "Professional equipment",
+          "Delivery within 3-5 days",
+          "Online gallery provided"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "duration": "4 hours",
+        "features": [
+          "4 hours shooting time",
+          "80 edited photos",
+          "Professional equipment + lighting",
+          "Delivery within 2-3 days",
+          "Online gallery provided",
+          "Makeup collaboration available",
+          "Original files included"
+        ]
+      },
+      "wedding": {
+        "name": "Wedding Special",
+        "duration": "Full day",
+        "features": [
+          "8+ hours shooting time",
+          "200+ edited photos",
+          "Premium equipment full set",
+          "Same-day snap album",
+          "Highlight video production",
+          "Wedding book (optional)",
+          "2 photographers",
+          "All original files included"
+        ]
+      }
+    },
+    "servicesTitle": "Photography Services",
+    "servicesList": {
+      "wedding": {
+        "title": "Wedding & Couple Snap",
+        "description": "Capture life's most precious moments naturally and emotionally.",
+        "details": ["Engagement/Wedding snap", "Couple date snap", "Proposal snap"]
+      },
+      "family": {
+        "title": "Family Photos",
+        "description": "Record warm and happy moments with the whole family.",
+        "details": ["Family group photo", "First birthday/100 days", "Family profile"]
+      },
+      "business": {
+        "title": "Business Profile",
+        "description": "Create a professional and trustworthy first impression with profile photos.",
+        "details": ["Personal profile", "Corporate staff photos", "Actor headshots"]
+      },
+      "product": {
+        "title": "Product & Commercial",
+        "description": "Professional commercial photography that maximizes product appeal.",
+        "details": ["Product detail shooting", "Food photography", "Space photography"]
+      }
+    },
+    "processTitle": "Shooting Process",
+    "process": [
+      {
+        "title": "Consultation Request",
+        "description": "Fill out inquiry form or phone consultation"
+      },
+      {
+        "title": "Schedule Coordination",
+        "description": "Confirm shooting date and location"
+      },
+      {
+        "title": "Photography Session",
+        "description": "Shooting in a comfortable atmosphere"
+      },
+      {
+        "title": "Photo Delivery",
+        "description": "Online delivery after editing"
+      }
+    ],
+    "cta": {
+      "title": "Want a free consultation?",
+      "subtitle": "We provide customized quotes for your preferred shooting style and budget",
+      "button": "Contact Now"
+    }
+  },
+  "login": {
+    "title": "Admin Login",
+    "subtitle": "Moment Snap Admin Page",
+    "email": "Email",
+    "emailPlaceholder": "admin@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "submit": "Login",
+    "submitting": "Logging in...",
+    "needAccount": "Need an admin account?",
+    "createAccount": "Create an account in Supabase dashboard.",
+    "backHome": "← Back to Home",
+    "error": "Login failed. Please try again."
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "subtitle": "View and manage inquiries",
+    "logout": "Logout",
+    "totalContacts": "Total Inquiries",
+    "todayContacts": "Today's Inquiries",
+    "loginAccount": "Login Account",
+    "portfolioManagement": "Portfolio Management",
+    "contactsTitle": "Inquiry List",
+    "noContacts": "No inquiries yet",
+    "noContactsDesc": "Customer inquiries will appear here.",
+    "messageLabel": "Message:",
+    "deleteConfirm": "Are you sure you want to delete this inquiry?",
+    "deleteError": "Failed to delete.",
+    "loading": "Loading...",
+    "delete": "Delete",
+    "noPermission": "Admin permission required.",
+    "filters": "Filters",
+    "search": "Search",
+    "searchPlaceholder": "Search by name, email, phone, or message...",
+    "sortBy": "Sort By",
+    "sortByDate": "Date",
+    "sortByName": "Name",
+    "sortOrder": "Sort Order",
+    "sortAsc": "Ascending",
+    "sortDesc": "Descending",
+    "resetFilters": "Reset Filters",
+    "noSearchResults": "No results found",
+    "noSearchResultsDesc": "No inquiries match your search criteria. Try different keywords.",
+    "sessionExpiring": "Session Expiring Soon",
+    "sessionExpiringDesc": "You will be automatically logged out in about {minutes} minutes. Keep active on the page to continue working."
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "loginSubtitle": "Sign in to your account",
+    "signupTitle": "Sign Up",
+    "signupSubtitle": "Create a new account",
+    "name": "Name",
+    "namePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "example@email.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "••••••••",
+    "loginButton": "Login",
+    "signupButton": "Sign Up",
+    "submitting": "Processing...",
+    "needSignup": "Don't have an account? Sign up",
+    "needLogin": "Already have an account? Login",
+    "backHome": "← Back to Home",
+    "error": "An error occurred. Please try again.",
+    "passwordMismatch": "Passwords do not match.",
+    "signupSuccess": "Sign up completed! Please check your email.",
+    "agreementText": "By signing up, you agree to our",
+    "and": "and"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: November 3, 2025",
+    "backHome": "Back to Home",
+    "section1": {
+      "title": "1. Personal Information We Collect",
+      "content": "Moment Snap collects the following personal information to provide services."
+    },
+    "section2": {
+      "title": "2. Purpose of Collection and Use",
+      "subtitle1": "Required Information",
+      "items1": [
+        "Name, Email, Phone Number (for inquiry response and service provision)",
+        "Account Information (for member management)"
+      ],
+      "subtitle2": "Optional Information",
+      "items2": [
+        "Photography preferences and requests",
+        "Marketing consent"
+      ]
+    },
+    "section3": {
+      "title": "3. Retention and Use Period",
+      "content": "Collected personal information is retained and used for the following periods:",
+      "items": [
+        "Until member withdrawal",
+        "3 years after service completion (transaction records per e-commerce law)",
+        "Period specified by law if required by legislation"
+      ]
+    },
+    "section4": {
+      "title": "4. Third Party Provision",
+      "content": "Moment Snap does not provide personal information to external parties in principle. However, it may be provided when required by law or with customer consent."
+    },
+    "section5": {
+      "title": "5. User Rights",
+      "content": "Users can exercise the following rights at any time:",
+      "items": [
+        "Request to view personal information",
+        "Request to correct or delete personal information",
+        "Request to stop processing personal information",
+        "Member withdrawal (account deletion)"
+      ]
+    },
+    "section6": {
+      "title": "6. Privacy Officer",
+      "content": "Please contact us below for privacy-related inquiries and rights exercise."
+    },
+    "contact": {
+      "title": "Contact",
+      "business": "Business Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: November 3, 2025",
+    "backHome": "Back to Home",
+    "section1": {
+      "title": "1. Purpose",
+      "content": "These terms specify the rights, obligations, and responsibilities between the company and users regarding the use of photography services provided by Moment Snap (hereinafter 'Company')."
+    },
+    "section2": {
+      "title": "2. Definitions",
+      "content": "The definitions of terms used in these terms are as follows:",
+      "items": [
+        "Service: All services provided by the company including photography, editing, and delivery",
+        "User: A customer who agrees to these terms and uses the company's services",
+        "Member: A user who has provided personal information and registered as a member",
+        "Content: All materials including photos, videos, and text provided within the service"
+      ]
+    },
+    "section3": {
+      "title": "3. Service Use",
+      "content": "The company provides the following services:",
+      "items": [
+        "Various photography services including weddings, couples, families, and profiles",
+        "Photo editing and post-production",
+        "Photo delivery through online gallery",
+        "Other photography-related additional services"
+      ]
+    },
+    "section4": {
+      "title": "4. Contract Formation",
+      "content": "Photography contracts are established through the following procedures:",
+      "items": [
+        "User's consultation request and photography inquiry",
+        "Company's quote provision and schedule coordination",
+        "User's contract agreement and deposit payment",
+        "Company's contract confirmation notification"
+      ]
+    },
+    "section5": {
+      "title": "5. Refund and Cancellation",
+      "content": "Shooting cancellations and refunds are applied differently depending on the cancellation time. Full refund for cancellations 14 days before shooting, 50% refund for 7 days before, non-refundable for within 3 days. However, in cases of force majeure such as natural disasters, schedule changes or refunds are possible after consultation."
+    },
+    "section6": {
+      "title": "6. Copyright and Portrait Rights",
+      "content": "Rights to photographed photos are divided as follows:",
+      "items": [
+        "Copyright: Copyright of photographed photos belongs to the company",
+        "Usage Rights: Users can freely use photos for personal purposes",
+        "Portrait Rights: The company obtains prior consent before using user photos in portfolios",
+        "Commercial Use: Commercial use of photos requires separate consultation with the company"
+      ]
+    },
+    "section7": {
+      "title": "7. Disclaimer",
+      "content": "The company is not responsible for inability to provide services due to natural disasters or force majeure. Also, the company is not responsible for problems caused by inaccurate information provided by users."
+    },
+    "contact": {
+      "title": "Contact",
+      "business": "Business Name",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  },
+  "mypage": {
+    "title": "My Page",
+    "subtitle": "View your information and inquiry history",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "name": "Name",
+    "noName": "No name",
+    "email": "Email",
+    "totalInquiries": "Total Inquiries",
+    "newInquiry": "New Inquiry",
+    "newInquiryDesc": "Request new consultation",
+    "portfolio": "Portfolio",
+    "portfolioDesc": "View gallery",
+    "services": "Services",
+    "servicesDesc": "Service information",
+    "inquiryHistory": "Inquiry History",
+    "noInquiries": "No inquiries yet",
+    "noInquiriesDesc": "You haven't made any inquiries yet. Apply for a consultation now!",
+    "makeInquiry": "Make Inquiry",
+    "inquiryContent": "Inquiry Content:",
+    "pending": "Received",
+    "imageOnly": "Only image files can be uploaded.",
+    "fileSizeLimit": "File size must be 2MB or less.",
+    "profileImageChanged": "Profile image has been changed!",
+    "uploadFailed": "Upload failed."
+  },
+  "adminPortfolio": {
+    "title": "Portfolio Management",
+    "subtitle": "Add and manage portfolio images",
+    "backToDashboard": "Dashboard",
+    "addImage": "Add Image",
+    "noPortfolio": "No portfolio items",
+    "addFirstImage": "Add your first image!",
+    "addImageModal": "Add Portfolio Image",
+    "imageLabel": "Image",
+    "clickToSelect": "Click to select image",
+    "imageFormat": "JPG, PNG (Max 5MB)",
+    "titleLabel": "Title",
+    "titlePlaceholder": "e.g., Spring Wedding Shoot",
+    "categoryLabel": "Category",
+    "descriptionLabel": "Description (Optional)",
+    "descriptionPlaceholder": "Brief description of the image",
+    "cancel": "Cancel",
+    "upload": "Upload",
+    "uploading": "Uploading...",
+    "noPermission": "Admin permission required.",
+    "imageOnly": "Only image files can be uploaded.",
+    "fileSizeLimit": "File size must be 5MB or less.",
+    "selectImage": "Please select an image.",
+    "uploadSuccess": "Portfolio added successfully!",
+    "uploadFailed": "Upload failed",
+    "unknownError": "Unknown error",
+    "deleteConfirm": "Are you sure you want to delete this portfolio item?",
+    "deleteSuccess": "Deleted successfully.",
+    "deleteError": "Failed to delete."
+  },
+  "portfolioItems": {
+    "springWedding": {
+      "title": "Spring Wedding",
+      "description": "Beautiful outdoor wedding photography on a spring day. Special moments captured with natural sunlight"
+    },
+    "romanticWedding": {
+      "title": "Romantic Wedding",
+      "description": "Emotional wedding snap. Capturing moments filled with the love of two people"
+    },
+    "classicWedding": {
+      "title": "Classic Wedding",
+      "description": "Elegant indoor wedding photography. Beautiful moments in a formal atmosphere"
+    },
+    "coupleDate": {
+      "title": "Couple Date",
+      "description": "Natural couple snap. Turning ordinary daily moments into special memories"
+    },
+    "romanticCouple": {
+      "title": "Romantic Couple",
+      "description": "Capturing lovely moments. Capturing the special time of two people"
+    },
+    "natureCouple": {
+      "title": "Couple in Nature",
+      "description": "Couple photography in nature. Comfortable and natural appearance"
+    },
+    "businessProfile": {
+      "title": "Business Profile",
+      "description": "Professional profile photography. Complete with trustworthy images"
+    },
+    "femaleProfile": {
+      "title": "Female Profile",
+      "description": "Sophisticated profile photo. Natural yet professional feel"
+    },
+    "familyPhoto": {
+      "title": "Family Photo",
+      "description": "Warm family photography. Cherish precious time together forever"
+    },
+    "happyFamily": {
+      "title": "Happy Family",
+      "description": "Family photo full of smiles. Natural and comfortable atmosphere"
+    },
+    "productPhoto": {
+      "title": "Product Photography",
+      "description": "High-quality product photos. Photography that maximizes the value of products"
+    },
+    "fashionProduct": {
+      "title": "Fashion Product",
+      "description": "Stylish product photography. Sophisticated composition and lighting"
+    }
+  },
+  "modal": {
+    "close": "Close",
+    "viewDetails": "View Details"
+  }
+}
+
